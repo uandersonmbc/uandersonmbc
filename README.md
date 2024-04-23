@@ -3,8 +3,6 @@ Engenheiro de Software (foco em frontend), tenho 7 anos de experiência.
 
 Sou um desenvolvedor experiente que pode iniciar aplicações full-stack completamente do zero e escalonáveis. A maior parte da minha experiência foi atuando no front-end, utilizando React.js e Next.js. Além disso, tive a oportunidade de criar aplicações full-stack usando Ruby on Rails.
 
-8c0e06
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unlimambc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uandersonmbc/) 
