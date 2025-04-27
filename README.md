@@ -1,4 +1,4 @@
-# Hi there, I'm Uanderson Monteiro 👋
+# Hi there, I'm Uanderson 👋
 
 💻 Software Developer | 8+ years of experience  
 🚀 Passionate about building scalable and efficient applications  
